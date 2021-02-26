@@ -6,6 +6,8 @@ Works to my knowledge, but there's probably a really shitty fuck-up in there som
 
 Used in https://youtu.be/OWGErWGZhZI for testing.
 
+You'll need to put in your file paths in src/one/Main.java
+
 License CC BY-NC-SA 3.0
 
 -- Photon
