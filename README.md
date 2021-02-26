@@ -6,4 +6,6 @@ Works to my knowledge, but there's probably a really shitty fuck-up in there som
 
 Used in https://youtu.be/OWGErWGZhZI for testing.
 
+License CC BY-NC-SA 3.0
+
 -- Photon
