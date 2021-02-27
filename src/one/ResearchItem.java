@@ -1,32 +1,16 @@
 package one;
 
-public class ResearchItem {
-	
-	private int quantity;
+public class ResearchItem extends Item{
 	private String itemName;
 	
 	public ResearchItem(int quant, String name) {
-		
-		quantity = quant;
+		super(ItemsCsv.idByItems.get(name), quant, 0);
 		itemName = name;
-		
-	}
-	
-	public int getQuantity() {
-		
-		return this.quantity;
-		
 	}
 	
 	public String getName() {
 		
 		return this.itemName;
-	}
-	
-	public void setQuantity(int quant) {
-		
-		this.quantity = quant;
-		
 	}
 	
 	public void setName(String name) {

@@ -11,3 +11,9 @@ You'll need to put in your file paths in src/one/Main.java
 License CC BY-NC-SA 3.0
 
 -- Photon
+
+## Fork
+This fork is used to enhance this project by fixing bugs and upgrading stuff.
+What this fork currently done:
+ - Made [Item](src/one/Item.java) related classes ([InventoryItem](src/one/InventoryItem.java), [ResearchItem](src/one/ResearchItem.java)) extend it.
+ - Keeping track on items with [ItemsCsv](src/one/ItemsCsv.java) (Mostly for ResearchItem)
